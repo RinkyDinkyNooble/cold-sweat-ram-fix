@@ -1,0 +1,1 @@
+Frees about 150 MB of memory that Cold Sweat spends on long debug names. Cold Sweat works exactly the same.
